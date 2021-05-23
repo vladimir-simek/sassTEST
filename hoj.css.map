@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,GAAG;EACD,gBAAgB,EAJT,GAAG;EAKV,OAAG;IACD,gBAAgB,EALP,MAAM",
+"sources": ["hoj.sass"],
+"names": [],
+"file": "hoj.css"
+}
